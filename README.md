@@ -1,23 +1,6 @@
-# Oefeningen labo 12
+# Labo 11
 
-Zorg dat je de volgende folder structuur volgt:
-
-```
-webtechnologie/
-└─ labo-11/
-   └─ geintegreerde-opdracht/
-      ├─ index.html
-      ├─ images/
-      │  ├─ image-1.jpg
-      │  └─ image-n.jpg
-      └─ css/
-          ├─ reset.css
-          └─ style.css
-```
-
-## Geïntegreerde opdracht
-
-Dit is een grote herhalingsoefening waar de heel wat topics van de cursus tot hiertoe in terugkomen. Deze herhalingsoefening is een ideale oefening om jezelf of je voldoende voorbereid bent voor de tussentijdse toets.
+Dit is een grote herhalingsoefening waar de heel wat topics van de cursus tot hiertoe in terugkomen. Deze herhalingsoefening is een ideale oefening om jezelf te testen of je voldoende voorbereid bent voor de tussentijdse toets.
 
 Alle nodige bestanden staan naast deze README.
 
